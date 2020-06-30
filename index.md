@@ -9,3 +9,5 @@ Mein Lieblingscharakter ist der Nichtsagende Joe, mein absoluter Held. Er kann e
 * Versager
 
 > Niemals....
+
+<img src="https://cdn.pixabay.com/blog/post/2017/04/05/13-33-48-212_640.jpg"/>
